@@ -1,0 +1,161 @@
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+    
+    body{
+        background :url( https://i.pinimg.com/474x/d7/59/39/d7593967368a99600c8a65be7823cfe2.jpg)no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .navbar{
+      display: flex;
+      align-items: center;
+      padding: 20px;
+      background-color: antiquewhite;
+    }
+     nav{
+      text-align: right;
+      flex: 1;
+     }
+     nav ul{
+      display: inline-block;
+
+     }
+     nav ul li{
+      display: inline-block;
+      margin-right: 10px;
+     }
+    .pic-1 p{
+      color: aliceblue;
+    }
+    .img-1{
+        width: 200px;
+        border-radius: 10px;
+        border: 2px solid gray ; 
+        float:  left;
+        margin: 30px; 
+        
+    }
+      p{
+         padding: 10px;
+        font-size:  20px;
+     }
+     
+    a:link,a:visited{
+      padding: 14px 15px;
+     border-radius: 15px;
+     background-color:blue;
+    text-decoration: none;
+    color: white;
+  }      
+  a:hover
+  {
+    background-color:  violet;
+  }  
+  .img-2{
+    float: right;
+    width: 200px;
+    border: 2px solid  yellow;
+    border-radius: 10px;
+    
+  } 
+  .pic-2 p{
+    color: white;
+  } 
+  .pic-2{
+    padding: 30px;
+    border: 2px solid black;
+     
+    
+  }
+  .link-2:link,.link-2:active{
+    padding: 14px 15px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+  }
+  .link-2:hover{
+    background-color: aliceblue;
+    color: black;
+  }
+  .pic-1{
+    padding: 30px;
+    border: 2px solid black; 
+  }
+  .pic-3{
+    padding: 20px;
+    border: 2px solid black;
+    
+  }
+  .img-3{
+    float: left;
+    width: 200px;
+    border: 2px solid mediumseagreen;
+    border-radius: 10px;
+    margin: 30px;
+  }
+  .pic-3 p{
+    color: aliceblue;
+  }
+      .link-3:link,.link-3:visited{
+        padding: 14px 15px;
+        background-color: blue;
+        color: white;
+        text-decoration: none;
+      }
+      .link-3:hover,.link-3:active{
+        background-color: blueviolet;
+        color: white;
+      }
+      .pic-2 h2{
+        color: white;
+      }
+       .pic-1 h2{
+        color: white;
+      }
+      .img-4{
+        float: right;
+        width: 200px;
+        border: 2px solid rgba( 255,255,255,.2);
+        border-radius: 20px;
+      }
+      .pic-4{
+        padding: 15px 14px;
+        border: 2px solid black;
+        
+
+      }
+      .pic-4 p{
+        color: white;
+      }
+      .pic-4 h2{
+        color: white;
+      }
+       .adress .h3{
+        color: white;
+      padding: 5px;  
+       }
+       .adress h2{
+        color: aqua;
+       } 
+       .pic-5{
+        border: 2px solid black;
+        border-radius: 20px;
+        padding: 30px;
+       }
+       .img-5{
+        width: 200px;
+        float: left;
+        border: 2x solid black;
+        border-radius: 20px;
+         margin: 10px;
+       }
+       .pic-5 p{
+        color: white;
+       }
+       .pic-5 h2{
+        color: white;
+       }
